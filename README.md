@@ -32,19 +32,6 @@ May 2025 – July 2025
 
 ---
 
-## Selected projects
-
-Prescripto — Doctor Appointment Platform  
-- Repo: [himanshup18/Prescripto](https://github.com/himanshup18/Prescripto) · Live: [prescripto-42us.vercel.app](https://prescripto-42us.vercel.app/)  
-- Summary: Full‑stack appointment scheduling platform for patients, doctors, and hospitals. Supports role-based auth for patients/doctors/admins, doctor dashboards for earnings and bookings, and real‑time updates. Built & tested to handle 50+ appointments during testing.  
-- Tech: React, Tailwind CSS, Express.js, MongoDB (Mongoose), JWT, Bcrypt
-
-VERA — AI‑Powered Content Verification Platform  
-- Repo: [himanshup18/VERA](https://github.com/himanshup18/VERA) · Live: [vera-seven.vercel.app](https://vera-seven.vercel.app/)  
-- Summary: Multi-modal content verification system integrating deepfake detection and blockchain-backed decentralized verification. Implements GPT-4 based detectors across image, video, audio, and text with confidence scoring.  
-- Tech: Next.js, Node.js, Express, MongoDB, OpenAI API, Cloudinary, Web3.js, MetaMask
-
----
 
 ## Technical skills
 
@@ -56,30 +43,6 @@ VERA — AI‑Powered Content Verification Platform
 - ML / NLP: LLMs (OpenAI API), Semantic Embeddings, RAG pipelines, scikit-learn  
 - Fundamentals: Data Structures & Algorithms, OOP, Operating Systems, DBMS
 
----
-
-## Achievements
-- Codeforces: max rating 1453 (Specialist); 350+ problems solved  
-- CodeChef: max rating 1842 (4‑Star); 150+ problems solved  
-- LeetCode: max rating 1635; 550+ problems solved  
-- Global Rank 141 in CodeChef Global Starters 115 (20,000+ participants)  
-- 1500+ total problems solved across competitive platforms
-
----
-
-## Involvement & interests
-- Volunteer: Srijan'23 — Cultural fest of IIT ISM Dhanbad  
-- Sports: Cricket, Chess, Badminton
-
----
-
-## How I work
-- Deliver small, testable increments  
-- Prefer simple, maintainable solutions over clever hacks  
-- Emphasize clear documentation and developer experience  
-- Iterate quickly based on user feedback
-
----
 
 ## Want to collaborate?
 I’m open to freelance and professional opportunities. If you have an idea, a project, or a role that could use my skills — reach out via email or LinkedIn.
