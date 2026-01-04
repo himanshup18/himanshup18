@@ -17,7 +17,7 @@
 I design and build full‑stack web applications and AI-powered systems with a focus on measurable performance, security, and a great developer experience.
 
 - 🔭 Currently building: Prescripto (doctor appointment platform) & VERA (AI content verification)  
-- 🌱 Learning: LLM workflows, RAG pipelines, and secure Web3 integrations  
+- 🌱 Learning: LLM workflows, RAG pipelines
 - 👯 Open to: freelance and professional opportunities  
 - 📫 Contact: [himanshu123lmp@gmail.com](mailto:himanshu123lmp@gmail.com) · [LinkedIn](https://linkedin.com/in/himanshup18) · [GitHub](https://github.com/himanshup18)
 
