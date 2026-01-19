@@ -1,7 +1,5 @@
 # Hi, I'm Himanshu Patel 👋
 
-> B.Tech student at Indian Institute of Technology (Indian School of Mines), Dhanbad — Full‑stack & AI developer focused on production-ready web apps, ML/NLP systems, and secure decentralized integrations.
-
 [![GitHub followers](https://img.shields.io/github/followers/himanshup18?label=Follow&style=social)](https://github.com/himanshup18) ![Profile views](https://komarev.com/ghpvc/?username=himanshup18&color=0e75b6)
 
 ---
