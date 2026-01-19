@@ -13,26 +13,6 @@
 
 ---
 
-## What I do
-I design and build full‑stack web applications and AI-powered systems with a focus on measurable performance, security, and a great developer experience.
-
-- 🔭 Currently building: Prescripto (doctor appointment platform) & VERA (AI content verification)  
-- 🌱 Learning: LLM workflows, RAG pipelines
-- 👯 Open to: freelance and professional opportunities  
-- 📫 Contact: [himanshu123lmp@gmail.com](mailto:himanshu123lmp@gmail.com) · [LinkedIn](https://linkedin.com/in/himanshup18) · [GitHub](https://github.com/himanshup18)
-
----
-
-## Experience
-MentaMind Technologies — Software Development Intern (Remote)  
-May 2025 – July 2025
-- Developed features for a mental‑wellness platform serving 1,000+ users, enabling interactions between patients, certified psychologists, and pharmacy vendors.
-- Optimized SQL queries to improve database performance — reduced average page load time by ~15% and improved response time by ~25%.
-- Refactored React components and integrated backend REST APIs, improving frontend performance and reducing technical debt by ~30%.
-
----
-
-
 ## Technical skills
 
 - Languages: C, C++, Java, JavaScript, SQL  
